@@ -82,6 +82,7 @@ Maintained by [Ian Alloway](https://github.com/ianalloway). Contributions welcom
 - [Transfermarkt](https://www.transfermarkt.com/) - Player valuations, transfer history, and squad information for soccer leagues globally.
 - [Open Football Data](https://github.com/openfootball) - Free open public domain football data covering leagues, cups, and national teams.
 - [European Soccer Database (Kaggle)](https://www.kaggle.com/datasets/hugomathien/soccer) - 25,000+ matches from 11 European leagues with player attributes from FIFA video games.
+- [WagerBase](https://wagerbase.io/) - Football predictions platform tracking pre-match odds movement across 63 bookmakers. Features steam moves detection (sharp money signals before kickoff), xG-based predictions, and accumulator builder.
 
 ### Other Sports
 
